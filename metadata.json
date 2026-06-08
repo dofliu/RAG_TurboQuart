@@ -1,0 +1,6 @@
+{
+  "name": "Harakosan Z72 Turbine RAG Evaluator",
+  "description": "Evaluates RAG performance on the Harakosan Z72 wind turbine user manual, comparing traditional vector quantization against the near-optimal TurboQuant (arXiv:2504.19874) technique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
