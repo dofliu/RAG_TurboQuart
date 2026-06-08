@@ -1,6 +1,6 @@
 {
   "name": "Harakosan Z72 Turbine RAG Evaluator",
-  "description": "Evaluates RAG performance on the Harakosan Z72 wind turbine user manual, comparing traditional vector quantization against the near-optimal TurboQuant (arXiv:2504.19874) technique.",
+  "description": "向量量化與 RAG 語義檢索評測儀：支援上傳自訂文件及預設風機手冊。提供繁體中文介面，實時對比與評估 TurboQuant (arXiv:2504.19874) 與傳統標量量化 (SQ) 於極限位元壓縮下的餘弦相似度、均方誤差 (MSE) 及 RAG 合成回答復原率。",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
